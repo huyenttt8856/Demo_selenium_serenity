@@ -1,0 +1,15 @@
+biz\common\CommonPageObject$3.class
+biz\common\CommonPageObject$1.class
+biz\common\CommonPageObject$6.class
+biz\common\CommonPageObject$2.class
+biz\common\LoginPage.class
+biz\serenity\LoginSteps.class
+biz\steps\OrderStepDefs.class
+biz\common\CommonPageObject.class
+biz\common\SearchPage.class
+biz\common\CommonPageObject$5.class
+biz\serenity\SearchSteps.class
+biz\common\CommonPageObject$4.class
+biz\acceptancetests\AcceptanceTestSuite.class
+biz\common\OrderPage.class
+biz\serenity\OrderSteps.class

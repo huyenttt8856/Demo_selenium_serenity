@@ -1,0 +1,123 @@
+# Created at 2020-07-03T09:09:00.292
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-07-03T09:09:00.293
+
+
+# Created at 2020-07-03T09:09:00.294
+-------------------------------------------------------------------------------------
+
+# Created at 2020-07-03T09:09:00.296
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+
+# Created at 2020-07-03T09:09:00.297
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+
+# Created at 2020-07-03T09:09:00.298
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+
+# Created at 2020-07-03T09:09:00.300
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+
+# Created at 2020-07-03T09:09:00.301
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+
+# Created at 2020-07-03T09:09:00.302
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+
+# Created at 2020-07-03T09:09:00.304
+                                                                                     
+
+# Created at 2020-07-03T09:09:00.305
+ News and tutorials at http://www.serenity-bdd.info                                  
+
+# Created at 2020-07-03T09:09:00.307
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+
+# Created at 2020-07-03T09:09:00.308
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+
+# Created at 2020-07-03T09:09:00.310
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+
+# Created at 2020-07-03T09:09:00.312
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+
+# Created at 2020-07-03T09:09:00.313
+-------------------------------------------------------------------------------------
+
+# Created at 2020-07-03T09:09:00.314
+
+
+# Created at 2020-07-03T09:09:00.316
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: order on Tiki
+
+# Created at 2020-07-03T09:09:00.737
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: order on Tiki
+
+# Created at 2020-07-03T09:09:01.058
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-07-03T09:09:01.059
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-07-03T09:09:01.061
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-07-03T09:09:01.062
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-07-03T09:09:01.063
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-07-03T09:09:01.065
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-07-03T09:09:01.066
+                                                                  
+
+# Created at 2020-07-03T09:09:01.067
+
+
+# Created at 2020-07-03T09:09:01.069
+TEST STARTED: User order on Tiki
+
+# Created at 2020-07-03T09:09:01.070
+-------------------------------------------------------------------(order-on-tiki;user-order-on-tiki)
+
+# Created at 2020-07-03T09:09:02.936
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-07-03T09:09:02.944
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized,--homepag..., goog:chromeOptions: {args: [--start-maximized, --homepage=about:blank, --no-first-run], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+
+# Created at 2020-07-03T09:09:49.373
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-07-03T09:09:49.377
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+
+# Created at 2020-07-03T09:09:49.380
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+
+# Created at 2020-07-03T09:09:49.383
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+
+# Created at 2020-07-03T09:09:49.386
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+
+# Created at 2020-07-03T09:09:49.389
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+
+# Created at 2020-07-03T09:09:49.391
+        /_/                                                                
+
+# Created at 2020-07-03T09:09:49.394
+
+
+# Created at 2020-07-03T09:09:49.396
+TEST PASSED: User order on Tiki
+
+# Created at 2020-07-03T09:09:49.397
+----------------------------------------------------------------------------
+
